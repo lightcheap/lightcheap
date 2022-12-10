@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi there 👋 </h1> -->
 <!-- <h3 align="center"></h3> -->
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightcheap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightcheap&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lightcheap&theme=tokyonight&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lightcheap&theme=tokyonight&utcOffset=8)
+<!-- <p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lightcheap&show_icons=true&locale=en" alt="lightcheap"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightcheap&show_icons=true" alt="lightcheap"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightcheap&show_icons=true&locale=en&layout=compact" alt="lightcheap"/>
+</p> -->
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lightcheap" alt="lightcheap"/></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=lightcheap" alt="lightcheap"/>
+  </a>
 </p>
 
 <!-- <h3 align="left">私とつながる:</h3>
@@ -70,8 +81,6 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lightcheap&show_icons=true&locale=en&layout=compact" alt="lightcheap" />
+<p align="center">
+  <img src= "https://komarev.com/ghpvc/?username=lightcheap&label=Profile%20views&color=0e75b6&style=flat" alt="lightcheap view counter"/>
 </p>
-
-<p align="left"><img src= "https://komarev.com/ghpvc/?username=lightcheap&label=Profile%20views&color=0e75b6&style=flat" alt="lightcheap" /></p>
