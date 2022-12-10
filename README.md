@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lightcheap&theme=tokyonight&show_icons=true)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lightcheap&theme=tokyonight&utcOffset=8) -->
-<p width="100%">
-  <img src="https://github-readme-stats.vercel.app/api?username=lightcheap&show_icons=true&locale=en" alt="lightcheap"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightcheap&show_icons=true" alt="lightcheap"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=lightcheap&show_icons=true&locale=en" alt="lightcheap" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightcheap&show_icons=true" alt="lightcheap" width="48%"/>
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightcheap&show_icons=true&locale=en" alt="lightcheap" width="34%"/>
