@@ -15,20 +15,24 @@ Here are some ideas to get you started:
 <!-- <h1 align="center">Hi there 👋 </h1> -->
 <!-- <h3 align="center"></h3> -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
+
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lightcheap&theme=tokyonight&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lightcheap&theme=tokyonight&utcOffset=8)
-<!-- <p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lightcheap&theme=tokyonight&utcOffset=8) -->
+<p width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=lightcheap&show_icons=true&locale=en" alt="lightcheap"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lightcheap&show_icons=true" alt="lightcheap"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightcheap&show_icons=true&locale=en&layout=compact" alt="lightcheap"/>
-</p> -->
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lightcheap&show_icons=true&locale=en" alt="lightcheap" width="34%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=lightcheap&row=2&column=4&margin-h=8&margin-w=0" alt="lightcheap" width="62%"/>
+</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lightcheap" alt="lightcheap"/>
+    
   </a>
 </p>
 
