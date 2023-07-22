@@ -13,20 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <P align="center">　(´･ω･`)</P>
-<P align="center">＿(__つ/￣￣￣/</P>
-<P align="center">　　＼/　　 /</P>
-<h3 align="center">　　　 ￣￣￣</h3>
-<h3 align="center"></h3>
-<h3 align="center">　(´･ω･`)</h3>
-<h3 align="center">＿(　つ　ミ　　ﾊﾞﾀﾝｯ</h3>
-<h3 align="center">　　＼￣￣￣＼ミ</h3>
-<h3 align="center">　　　 ￣￣￣￣</h3>
-<h3 align="center"></h3>
-<h3 align="center">　(´･ω･`)</h3>
-<h3 align="center">＿(　　　)</h3>
-<h3 align="center">　　＼￣￣￣＼</h3>
-<h3 align="center">　　　 ￣￣￣￣</h3>
-<!-- <h3 align="center"></h3> -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightcheap&theme=tokyonight)
