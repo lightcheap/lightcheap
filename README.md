@@ -12,8 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">＿＿＿＿＿＿＿＿ </h1>
-
+<h3 align="center">　(´･ω･`)</h3>
+<h3 align="center">＿(__つ/￣￣￣/</h3>
+<h3 align="center">　　＼/　　 /</h3>
+<h3 align="center">　　　 ￣￣￣</h3>
+<h3 align="center"></h3>
+<h3 align="center">　(´･ω･`)</h3>
+<h3 align="center">＿(　つ　ミ　　ﾊﾞﾀﾝｯ</h3>
+<h3 align="center">　　＼￣￣￣＼ミ</h3>
+<h3 align="center">　　　 ￣￣￣￣</h3>
+<h3 align="center"></h3>
+<h3 align="center">　(´･ω･`)</h3>
+<h3 align="center">＿(　　　)</h3>
+<h3 align="center">　　＼￣￣￣＼</h3>
+<h3 align="center">　　　 ￣￣￣￣</h3>
 <!-- <h3 align="center"></h3> -->
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
