@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center">　(´･ω･`)</h3>
-<h3 align="center">＿(__つ/￣￣￣/</h3>
-<h3 align="center">　　＼/　　 /</h3>
+<P align="center">　(´･ω･`)</P>
+<P align="center">＿(__つ/￣￣￣/</P>
+<P align="center">　　＼/　　 /</P>
 <h3 align="center">　　　 ￣￣￣</h3>
 <h3 align="center"></h3>
 <h3 align="center">　(´･ω･`)</h3>
