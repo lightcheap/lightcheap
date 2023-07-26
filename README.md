@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<P align="center">　(´･ω･`)</P>
+<P align="center">■■■■■■■■■■□□□ NOWLOADING ...</P>
 
 <!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lightcheap&theme=tokyonight)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lightcheap&theme=tokyonight)
